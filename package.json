@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@babylonjs/core": "^7.1.0",
+    "@babylonjs/loaders": "^7.1.0"
+  }
+}
